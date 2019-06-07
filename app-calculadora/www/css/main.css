@@ -1,0 +1,40 @@
+body{
+	background: white;
+	font-family: sans-serif;
+}
+main ul{
+	display: flex;
+	font-size: 2.9em;
+	flex-wrap: wrap;
+}
+a{
+	text-decoration: none;
+	color: black;
+}
+li{
+	margin: 0vw;
+	padding: 3.14vh 0;
+	width: 25vw;
+	border: 1px solid grey;
+	box-sizing: border-box;
+	text-align: center;
+}
+.zer{
+	width: 50vw;
+}
+.ig{
+	background: #F7506A;
+	color: white;
+}
+h1{
+	text-align: right;
+	background: #6732FF;
+	color: white;
+	padding: 3.5vh 4vw		;
+	font-size: 2.5em;
+}
+h2{
+	text-align: right;
+	padding: 4.5vh 4vw;
+	font-size: 1.5em;
+}
